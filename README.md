@@ -41,7 +41,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 - [ ] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
 - [ ] Complete 5 [Database Normalization challenges](https://www.hackerrank.com/domains/databases/database-normalization/difficulty/all/page/1) on HackerRank
 
-**Bonus** (if you finish these exercises and want more)
+**Stretch Goals** 
 - [ ] Complete the exercises under the "Assessments: More involved examples for confident users" subtopic on [SQLZOO](http://sqlzoo.net/).
 - [ ] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
 
