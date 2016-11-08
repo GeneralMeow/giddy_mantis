@@ -38,7 +38,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 - [ ] Complete 10 TOTAL "Easy" and "Medium" level [database challenges](https://leetcode.com/problemset/database/) on LeetCode. Prerequisite knowledge: the **SQL Foundations** specifications listed above.
 
 **Exercises to Reinforce Conceptual Knowledge**
-- [ ] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
+- [X] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
 - [ ] Complete 5 [Database Normalization challenges](https://www.hackerrank.com/domains/databases/database-normalization/difficulty/all/page/1) on HackerRank
 
 **Stretch Goals** 
