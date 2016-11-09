@@ -46,7 +46,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 - [ ] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
 
 ### Required
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+- [X] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Quality Rubric
 - Successful completion of SQLBolt exercises
