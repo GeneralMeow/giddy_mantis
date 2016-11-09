@@ -31,7 +31,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 ## Specifications
 
 **SQL Foundations**
-- [ ] Work through the exercises on [SQLBolt](https://sqlbolt.com/)
+- [X] Work through the exercises on [SQLBolt](https://sqlbolt.com/)
 - [ ] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/)
 
 **SQL Foundations Practice Exercises**
