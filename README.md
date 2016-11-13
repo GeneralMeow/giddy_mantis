@@ -43,15 +43,16 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 
 **Stretch Goals** 
 - [ ] Complete the exercises under the "Assessments: More involved examples for confident users" subtopic on [SQLZOO](http://sqlzoo.net/).
+- [ ] Complete 10 TOTAL "Easy" and "Medium" level [database challenges](https://leetcode.com/problemset/database/) on LeetCode. Prerequisite knowledge: the **SQL Foundations** specifications listed above.
 
 
 ### Required
 - [X] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Quality Rubric
-- Successful completion of SQLBolt exercises
-- Successful completion of SQLZOO exercises
-- All tests pass for LeetCode and HackerRank submissions
+- [X] Successful completion of SQLBolt exercises
+- [X] Successful completion of SQLZOO exercises
+- [X] All tests pass for LeetCode and HackerRank submissions
 
 ## Helpful resources
 
