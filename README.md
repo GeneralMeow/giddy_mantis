@@ -32,10 +32,10 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 
 **SQL Foundations**
 - [X] Work through the exercises on [SQLBolt](https://sqlbolt.com/)
-- [ ] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/)
+- [X] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/)
 
 **SQL Foundations Practice Exercises**
-- [ ] Complete 10 TOTAL "Easy" and "Medium" level [database challenges](https://leetcode.com/problemset/database/) on LeetCode. Prerequisite knowledge: the **SQL Foundations** specifications listed above.
+- [ ] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
 
 **Exercises to Reinforce Conceptual Knowledge**
 - [X] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
@@ -43,7 +43,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 
 **Stretch Goals** 
 - [ ] Complete the exercises under the "Assessments: More involved examples for confident users" subtopic on [SQLZOO](http://sqlzoo.net/).
-- [ ] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
+
 
 ### Required
 - [X] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
