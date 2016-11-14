@@ -35,7 +35,7 @@ The exercises to reinforce conceptual knowledge emphasize the importance of know
 - [X] Work through the exercises under the "Tutorials: Learn SQL in stages" section on [SQLZOO](http://sqlzoo.net/)
 
 **SQL Foundations Practice Exercises**
-- [ ] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
+- [X] Create an actual database and simple front end to update your database. [Here](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WAqKX5MrKRt) is a tutorial for how to do this (thanks @nodatall!)
 
 **Exercises to Reinforce Conceptual Knowledge**
 - [X] Complete 10 [Relational Algebra challenges](https://www.hackerrank.com/domains/databases/relational-algebra/difficulty/all/page/1) on HackerRank
